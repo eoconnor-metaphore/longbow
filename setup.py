@@ -19,7 +19,7 @@ setup(
         "click",
         "click-log",
         "polyleven",
-        "pomegranate @ git+https://github.com/jonn-smith/pomegranate.git@d80ec9304bba4c42ee3943c887754fd78885cd55",
+        "pomegranate==0.14.6",
         "pandas",
         "numpy",
         "matplotlib",
